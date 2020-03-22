@@ -1,0 +1,14 @@
+*.obj
+*.o
+*.hex
+*.d
+*.elf
+*.eep
+*.lss
+*.map
+*.sym
+*.bin
+**/main
+player/player
+**/*.pcm
+**/*.raw
